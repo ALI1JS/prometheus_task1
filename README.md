@@ -58,8 +58,13 @@ Ensure you have Docker and Docker Compose installed on your machine. You can dow
      - put in the select metrics your promQL and run it , this output visualization you can save it 
       like this images
 
+      ## CPU Panel
       ![CPU Panel](images/CPU_panel.png) 
+
+      ## Memory Panel
       ![Memory Panel](images/memory_panael.png) 
+
+      ## Disk Storage Panel
       ![Disk Storage Panel](images/disk_storage.png) 
 
     
